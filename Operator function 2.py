@@ -95,4 +95,6 @@ print("\r")
 # access the values in a particular range in the container.
 print ("The 1st and 2nd element of list is : " , operator.getitem(li,slice(0,2)))
 
+#this is my edit
+
 
